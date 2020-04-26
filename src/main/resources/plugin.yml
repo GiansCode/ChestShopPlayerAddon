@@ -1,0 +1,6 @@
+name: ChestShopPlayerAddon
+author: xQuickGlare
+version: 1.0
+main: io.alerium.chestshopaddon.ChestShopAddon
+depend: [ChestShop]
+softdepend: [PlaceholderAPI]

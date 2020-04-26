@@ -1,0 +1,2 @@
+maxAmountReached: '&cYou''ve reached the max amount of chests you can place, amount: %maxAmount'
+shopPlaced: '&aYou''ve placed a shop, %amount/%maxAmount'

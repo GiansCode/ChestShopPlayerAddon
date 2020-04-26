@@ -1,0 +1,8 @@
+MySQL:
+  hostname: localhost
+  username: root
+  password: 
+  database: chestshopplayeraddon
+  port: 3306
+
+maxChests: 10
